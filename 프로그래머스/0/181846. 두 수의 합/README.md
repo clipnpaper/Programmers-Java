@@ -1,6 +1,6 @@
 # [level 0] 두 수의 합 - 181846 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181846?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181846) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 09월 08일 12:22:55
+2026년 09월 08일 12:23:12
 
 ### 문제 설명
 

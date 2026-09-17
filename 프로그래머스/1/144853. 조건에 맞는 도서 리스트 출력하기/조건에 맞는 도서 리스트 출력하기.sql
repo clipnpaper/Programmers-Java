@@ -1,0 +1,6 @@
+-- 코드를 입력하세요
+SELECT BOOK_ID,PUBLISHED_DATE
+from book
+where YEAR(PUBLISHED_DATE) = 2021
+and CATEGORY = '인문'
+ORDER BY 2;
